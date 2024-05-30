@@ -1,6 +1,7 @@
 # Hi, I'm Robert Smith Jr.! 👋
-<a href="mailto:robertsmithemail@gmail.com"><img src="https://img.shields.io/badge/Email-robertsmithemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/robert-smith-jr-498097275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:robertsmithemail@gmail.com"><img src="https://img.shields.io/badge/Email-robertsmithemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 ## About Me
 📚 I'm currently studying Cybersecurity at Western Governors University and expect to graduate in 2025.
@@ -55,11 +56,6 @@ Here are some of the projects I've worked on. These projects showcase my ability
 - **Description:** Briefly describe what the project does and what security issue it addresses.
 - **Technologies used:** List the technologies and tools used in the project.
 - **[View Project](link to your GitHub repository for this project)**
-
-
-## Find Me Around the Web 🌎:
-- **LinkedIn:** [Your LinkedIn profile](LinkedIn URL)
-- **YouTube:** [Your Twitter profile](Twitter URL)
 
 
 Feel free to reach out to me for collaborations or just a chat!

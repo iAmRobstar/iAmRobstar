@@ -37,7 +37,7 @@
 ### Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Setting up Pi-Hole on a RaspberryPi           | <a href="[https://google.com](https://github.com/iAmRobstar/Setting-Up-Pi-hole-on-a-Raspberry-Pi)">Pi-Hole</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

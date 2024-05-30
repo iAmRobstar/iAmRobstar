@@ -1,5 +1,6 @@
 # Hi, I'm Robert Smith Jr.! 👋
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![robertsmithemail@gmail.com](https://img.shields.io/badge/Email-contact%40email.com-red?style=flat&logo=gmail)](mailto:your-email@example.com)
 
 ## About Me
 📚 I'm currently studying Cybersecurity at Western Governors University and expect to graduate in 2025.

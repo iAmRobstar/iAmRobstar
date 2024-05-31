@@ -6,6 +6,13 @@
 ## About Me
 📚 I'm currently studying Cybersecurity at Western Governors University and expect to graduate in 2025.
 
+### Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterward]]
@@ -26,18 +33,11 @@
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
 
 ### Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Pi-Hole on a RaspberryPi           | <a href="https://github.com/iAmRobstar/Setting-Up-Pi-hole-on-a-Raspberry-Pi">Pi-Hole</a>|
+| Setting up Pi-Hole on a RaspberryPi           | 
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -47,7 +47,7 @@
 ### Projects
 Here are some of the projects I've worked on. These projects showcase my ability to identify and mitigate security threats and vulnerabilities.
 
-### [Project Name 1]
+### Setting up Pi-Hole on a RaspberryPi  
 - **Description:** Briefly describe what the project does and what security issue it addresses.
 - **Technologies used:** List the technologies and tools used in the project.
 - **[View Project](link to your GitHub repository for this project)**
